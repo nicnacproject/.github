@@ -19,7 +19,7 @@ Offering free shell services since 2002, this non-profit project is devoted to p
 
 ##### Latest Repository Update/Commit | Profile Views:
 
-[![__Last Update__](https://img.shields.io/github/last-commit/NicNacProject/NicNacProject?style=flat&logoColor=white&label=Last%20Update&color=yellow)](#) [![](https://komarev.com/ghpvc/?username=NymexData&style=flat&logoColor=white&color=yellow&label=Profile+Views*)](#)
+[![__Last Update__](https://img.shields.io/github/last-commit/NicNacProject?style=flat&logoColor=white&label=Last%20Update&color=yellow)](#) [![](https://komarev.com/ghpvc/?username=NymexData&style=flat&logoColor=white&color=yellow&label=Profile+Views*)](#)
 
 <!--
 ![](https://komarev.com/ghpvc/?username=NymexData&style=flat&color=yellow)
