@@ -3,7 +3,7 @@
 Welcome to Nic Nac Project on Github (freeshell.de)
 Offering free shell services since 2002, this non-profit project is devoted to promoting internet freedom and empowering users globally.
 
-<sub>This repo project is not part of the official project by Sebastian Krajenski at freeshell.de.</sub>
+<sub>This repo org. is not part of the official project by Sebastian Krajenski at freeshell.de.</sub>
 
 <!--
 
