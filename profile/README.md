@@ -18,7 +18,7 @@ Offering free shell services since 2002, this non-profit project is devoted to p
 
 
 ##### Latest Repository Update/Commit | Profile Views:
-
+![Last Updated](https://img.shields.io/badge/Last%20Updated-%F0%9F%93%85-blue) 
 [![__Last Update__](https://img.shields.io/github/last-commit/felipealfonsog/felipealfonsog?style=flat&logoColor=white&label=Last%20Update&color=yellow)](#) [![](https://komarev.com/ghpvc/?username=NicNacProject&style=flat&logoColor=white&color=yellow&label=Profile+Views*)](#)
 
 <!--
