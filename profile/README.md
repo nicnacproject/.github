@@ -49,4 +49,4 @@ freeshell.de has operated as a non-profit service provider since September 19, 2
 
 [![Vim Powered](https://img.shields.io/badge/Vim-Powered-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)](https://www.vim.org)
 -->
-<sub>This repository organization is an independent entity and is not affiliated with the official project by Sebastian Krajenski at freeshell.de.</sub>
+<sub>*This repository organization is an independent entity and is not affiliated with the official project by Sebastian Krajenski at freeshell.de.</sub>
