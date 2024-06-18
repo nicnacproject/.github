@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-Welcome to Nic Nac Project on Github (freeshell.de)
+Welcome to Nic Nac Project on Github (freeshell.de)*
 Offering free shell services since 2002, this non-profit project is devoted to promoting internet freedom and empowering users globally.
-
-<sub>This repo org. is not part of the official project by Sebastian Krajenski at freeshell.de.</sub>
 
 <!--
 
@@ -49,3 +47,4 @@ Offering free shell services since 2002, this non-profit project is devoted to p
 
 [![Vim Powered](https://img.shields.io/badge/Vim-Powered-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)](https://www.vim.org)
 -->
+<sub>*This repo org. is not part of the official project by Sebastian Krajenski at freeshell.de.</sub>
