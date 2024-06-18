@@ -3,6 +3,8 @@
 Welcome to Nic Nac Project on Github (freeshell.de)*
 Offering free shell services since 2002, this non-profit project is devoted to promoting internet freedom and empowering users globally.
 
+freeshell.de has operated as a non-profit service provider since September 19, 2002, marking over two decades of service. The platform consistently welcomes new users, offering a straightforward membership process facilitated through postcard-ware accounts. Its primary focus is on fostering anonymity, ensuring the free flow of information, and promoting freedom of speech. Furthermore, it remains committed to staying at the forefront of cryptographic advancements within the scope of its services.
+
 <!--
 
 **Here are some ideas to get you started:**
